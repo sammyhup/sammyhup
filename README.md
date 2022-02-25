@@ -16,5 +16,5 @@ Oláaa. Eu sou a Samanta Cristina, formada em Psicologia (amooo), em transição
   
   ##
  
- 
+ <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" align="center" />
  
