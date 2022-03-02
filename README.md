@@ -13,8 +13,9 @@ Oláaa. Eu sou a Samanta Cristina, formada em Psicologia (amooo), em transição
   <img align="center" alt="Sammy-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sammy-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  
+
   ##
+  
   
  <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" align="center" />
 
