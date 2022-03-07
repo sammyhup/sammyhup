@@ -4,6 +4,8 @@ Oláaa. Eu sou a Samanta Cristina, formada em Psicologia (amooo), em transição
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sammyhup&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyhup&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/projetos/?username=sammyhup&layout=compact&langs_count=7&theme=dracula"/>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Sammy-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sammy-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
