@@ -1,4 +1,6 @@
-Oláaa. Eu sou a Samanta Cristina, formada em Psicologia (amooo), em transição de carreira, totalmente novata na área de programação, do qual, estou aprendendo e amando ! 
+Oláaa. Eu sou a Samanta Cristina.<br>
+Estudante de T.I e desenvolvimento Web Designer| FrontEnd | HTML5, CSS3, JavaScript.
+<br>
 <div align="center">
   <a href="https://github.com/sammyhup">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sammyhup&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
