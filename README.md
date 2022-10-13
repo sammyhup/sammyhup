@@ -1,5 +1,5 @@
 Oláaa. Eu sou a Samanta Cristina.<br>
-Estudante de T.I e desenvolvimento Web Designer| FrontEnd | HTML5, CSS3, JavaScript.
+ Graduando em T.I, na Universidade Virtual de São Paulo, Estudante do técnico em desenvolvimento de Sistemas,no Senai "Luiz Massa" e desenvolvimento Web Designer| FrontEnd | HTML5, CSS3, JavaScript, no Instituto Federal do Espiríto Santo.
 <br>
 <div align="center">
   <a href="https://github.com/sammyhup">
@@ -15,7 +15,7 @@ Estudante de T.I e desenvolvimento Web Designer| FrontEnd | HTML5, CSS3, JavaScr
   <img align="center" alt="Sammy-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sammy-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sammy-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  </div> 
 
   ##
   
