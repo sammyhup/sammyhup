@@ -1,5 +1,5 @@
 Oláaa. Eu sou a Samanta Cristina.<br>
- Graduando em T.I, na Universidade Virtual de São Paulo, Estudante do técnico em desenvolvimento de Sistemas, no Senai "Luiz Massa" e desenvolvimento Web Designer| FrontEnd | HTML5, CSS3, JavaScript, no Instituto Federal do Espiríto Santo.
+ Graduando em T.I, na Universidade Virtual de São Paulo, Estudante do Técnico em desenvolvimento de Sistemas, no Senai "Luiz Massa" e Desenvolvimento Web Designer| FrontEnd | HTML5, CSS3, JavaScript, no Instituto Federal do Espiríto Santo.
 <br>
 <div align="center">
   <a href="https://github.com/sammyhup">
