@@ -20,5 +20,5 @@ Oláaa. Eu sou a Samanta Cristina.<br>
   ##
   
   
- <img src="https://raw.githubusercontent.com/sammyhup/sammyhup/output/github-snake.svg" align="center" />
+ <img src="https://raw.githubusercontent.com/paulosavatorie/paulosavatorie/output/github-snake.svg" align="center" />
 
