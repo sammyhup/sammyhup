@@ -19,6 +19,5 @@ Oláaa. Eu sou a Samanta Cristina.<br>
 
   ##
   
-  
- <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" align="center" />
+
 
