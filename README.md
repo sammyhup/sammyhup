@@ -1,5 +1,8 @@
 Oláaa. Eu sou a Samanta Cristina.<br>
- Graduando em T.I, na Universidade Virtual de São Paulo, Estudante do Técnico em desenvolvimento de Sistemas, no Senai "Luiz Massa" e Desenvolvimento Web Designer| FrontEnd | BackEnd, no Instituto Federal do Espiríto Santo.
+ 
+Sou uma estudante de Tecnologia de Sistemas pela Universidade Virtual do Estado de São Paulo (Univesp) e recentemente obtive minha formação de Tecnico em Desenvolvimento de Sistemas. Tenho uma trajetória diversificada.
+Sou uma profissional versátil, dinâmica e tranquila, conhecida por manter excelentes relações interpessoais em equipes de trabalho.
+Estou motivada para agir e fazer acontecer, demonstrando disposição constante para aprender e evoluir.
 <br>
 <div align="center">
   <a href="https://github.com/sammyhup">
