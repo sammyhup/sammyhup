@@ -1,6 +1,6 @@
 Oláaa. Eu sou a Samanta Cristina.<br>
  
-Sou uma estudante de Tecnologia de Sistemas pela Universidade Virtual do Estado de São Paulo (Univesp) e recentemente obtive minha formação de Tecnico em Desenvolvimento de Sistemas. Tenho uma trajetória diversificada.
+Sou estudante de Tecnologia de Sistemas pela Universidade Virtual do Estado de São Paulo (Univesp) e recentemente obtive minha formação de Tecnico em Desenvolvimento de Sistemas. Tenho uma trajetória diversificada.
 Sou uma profissional versátil, dinâmica e tranquila, conhecida por manter excelentes relações interpessoais em equipes de trabalho.
 Estou motivada para agir e fazer acontecer, demonstrando disposição constante para aprender e evoluir.
 <br>
